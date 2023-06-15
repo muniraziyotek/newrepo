@@ -1,2 +1,2 @@
-# newrepo
+#!/bin/bash
 echo "Hi newrepo"
